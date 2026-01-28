@@ -2,6 +2,6 @@
 Flutter app with get/post requests
 
 # Screenshots
-![Posts](/screenshots/posts)
-![Creation](/screenshots/creation)
-![View](/screenshots/view)
+![Posts](/screenshots/posts.png)
+![Creation](/screenshots/creation.png)
+![View](/screenshots/view.png)
